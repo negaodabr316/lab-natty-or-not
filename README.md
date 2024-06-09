@@ -1,5 +1,7 @@
 # Desafio de projeto FAKE NATTY!
 
+https://www.linkedin.com/posts/erik-gomesaraujo_labdionattyornot-activity-7205687592309239808-rfbp?utm_source=share&utm_medium=member_desktop
+
 ## 📒 Descrição
 Usando as IAs disponiveis no mercado, tive que criar um conteudo totalmente "fake natty" o mais "natty" possivel.
 
