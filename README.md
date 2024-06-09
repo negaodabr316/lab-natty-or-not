@@ -1,3 +1,27 @@
+# Desafio de projeto FAKE NATTY!
+
+## 📒 Descrição
+Usando as IAs disponiveis no mercado, tive que criar um conteudo totalmente "fake natty" o mais "natty" possivel.
+
+## 🤖 Tecnologias Utilizadas
+Liste as IAs Generativas e outras ferramentas usadas
+
+## 🧐 Processo de Criação
+Descreva como você criou o conteúdo
+
+## 🚀 Resultados
+Apresente os resultados do seu projeto
+
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.
+
+
+
+
+
+
+
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
